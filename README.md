@@ -1,7 +1,7 @@
 # 🍔 GoFood - Food Delivery App
 
-GoFood is a full-stack **food delivery application** where users can browse dishes, add them to their cart, and place orders seamlessly.  
-Built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**, it provides a smooth user experience with real-time cart updates and secure authentication.
+GoFood is a full-stack **online food delivery application** where users can browse dishes, add them to their cart, and place orders seamlessly.  
+Built using **MongoDB**, **Express.js**, **React.js** and **Node.js** (MERN), it provides a smooth user experience with real-time cart updates and secure authentication.
 
 ---
 
